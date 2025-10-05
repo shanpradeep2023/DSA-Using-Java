@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/2025/2025.iml" filepath="$PROJECT_DIR$/2025/2025.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Before-2025/Before-2025.iml" filepath="$PROJECT_DIR$/Before-2025/Before-2025.iml" />
       <module fileurl="file://$PROJECT_DIR$/DSA-Complete.iml" filepath="$PROJECT_DIR$/DSA-Complete.iml" />
     </modules>
   </component>
