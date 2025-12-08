@@ -1,0 +1,49 @@
+1. STACKS
+-------------------------------------------------------------------------------
+Stack<String> stack = new Stack<String>();
+5 Methods : 1. push(ele)
+            2. pop()
+            3. peek()
+            4. search()
+            5. empty()   -> true / false
+-------------------------------------------------------------------------------
+2. QUEUES
+-------------------------------------------------------------------------------
+Queue<Integer> q = new LinkedList<Integer>();
+3 Methods : 1. add()     -> offer(ele);
+            2. remove()  -> poll();
+            3. element() -> peek();
+
+        Collection Methods : 1. isEmpty()
+                             2. size()
+                             3. contains(ele)
+-------------------------------------------------------------------------------
+3. PRIORITY QUEUES
+-------------------------------------------------------------------------------
+Queue<Integer> q = new PriorityQueue<>(
+    Collections.reverseOrder(),
+
+);
+-------------------------------------------------------------------------------
+4. LINKED LISTS : Doubly
+-------------------------------------------------------------------------------
+LinkedList<String> ls = new LinkedList<>();
+6 Methods : 1. offerFirst(e)
+             2. pollFirst()
+             3. peekFirst()
+             4. offerLast(e)
+             5. pollLast()
+             6. peekLast()
+
+        another method : 1. push(ele) -> offer(ele)
+                         2. pop()     -> poll()
+                         3. add(index, ele)
+                         4. remove(ele)
+-------------------------------------------------------------------------------
+5. DYNAMIC ARRAY
+-------------------------------------------------------------------------------
+ArrayList<String> a = new ArrayList<>();
+-------------------------------------------------------------------------------
+
+             
+
